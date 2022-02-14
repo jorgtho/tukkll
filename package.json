@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jorgtho/tukkll/issues"
   },
-  "homepage": "https://github.com/jorgtho/tukkll#readme"
+  "homepage": "https://github.com/jorgtho/tukkll#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
 }
