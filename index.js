@@ -6,3 +6,5 @@ console.log(`${hei} dette er ${tyt}`)
 const jfkdjflkd = "fd"
 
 const jadda = "tut tut"
+
+const testermn = 123
