@@ -8,3 +8,5 @@ let tetMaaan = 'wow'
 let tet = 'tet'
 
 let tetWoman = 'juhuuu'
+
+let tetris = 'hugg'
