@@ -8,3 +8,5 @@ let h = 213
 
 let y = 233
 y++
+
+let uuu = "yr.no"
