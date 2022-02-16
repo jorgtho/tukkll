@@ -5,4 +5,5 @@ const tyt = "neiieie"
 console.log(`${hei} dette er ${tyt}`)
 
 let tetMaaan = 'wow'
+let tet = 'tet'
 
