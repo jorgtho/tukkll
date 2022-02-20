@@ -1,6 +1,6 @@
 {
   "name": "tukkll",
-  "version": "4.5.0-canary.1",
+  "version": "4.6.0",
   "description": "Alt mulig",
   "main": "index.js",
   "scripts": {
