@@ -19,3 +19,5 @@ const yep = [
 yep.sort((a, b) => new Date(b.published_at) - new Date(a.published_at))
 console.log(yep)
 console.log(branch)
+
+let test = 'git log --simplify-by-decoration --pretty="%d;%H;%ci" --decorate=short HEAD --first-parent "$(git rev-parse --abbrev-ref HEAD)"'
