@@ -16,6 +16,18 @@ const yep = [
 	}
 ]
 
+/*
 yep.sort((a, b) => new Date(b.published_at) - new Date(a.published_at))
 console.log(yep)
 console.log("main")
+
+84e9f633901a024376199978836df417f62e93f7
+
+5bdf433579cdf76fdd2bac03a245627936c27be1
+
+['rev-list', `--pretty=format:${format}`, '--header', rev || 'HEAD'])
+
+git log --pretty=format:"%h%x09%an%x09%ad%x09%s%x09%b"
+
+git rev-list --pretty=format:"%h%x09%an%x09%ad%x09%s%x09%b" 228bf50..HEAD
+*/
