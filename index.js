@@ -16,7 +16,7 @@ const yep = [
 	}
 ]
 
-console.log('This is a change too')
+console.log('This is a change too - indeeed')
 
 /*
 yep.sort((a, b) => new Date(b.published_at) - new Date(a.published_at))
